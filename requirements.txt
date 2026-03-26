@@ -1,0 +1,18 @@
+# Bubble Sort Visualizer - Requirements
+# 
+# Core Requirements (required for basic functionality):
+# - Python 3.6+
+# 
+# Optional Dependencies:
+
+# Pygame - For 2D graphics visualization (highly recommended)
+# Provides interactive real-time bar chart visualization with:
+# - 60 FPS smooth animation
+# - Interactive controls (pause, resume, reset, step-through)
+# - Color-coded visualization
+# - Detailed statistics overlay
+pygame>=2.0.0
+
+# Optional: For future enhancements
+# matplotlib>=3.0.0  # For scientific visualization and video export
+# numpy>=1.18.0      # For advanced numerical operations
